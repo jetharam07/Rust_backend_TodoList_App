@@ -1,5 +1,3 @@
-# Rust_backend_TodoList_App
-
 # 📝 Todo App in Rust using Rocket
 
 This is a simple RESTful Todo application developed using the [Rocket](https://rocket.rs/) web framework in Rust. It allows you to perform basic CRUD operations (Create, Read, Update, Delete) on tasks, which are saved in a CSV file. This is a minimal example of building an HTTP API with Rocket and Serde.
